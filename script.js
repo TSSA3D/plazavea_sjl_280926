@@ -250,7 +250,7 @@ const historialEliminaciones =
 
 loader.load(
 
-    "modelo/plazavea_jockey_130826.gltf",
+    "modelo/plazavea_sjl_280926.gltf",
 
     function(gltf) {
 
